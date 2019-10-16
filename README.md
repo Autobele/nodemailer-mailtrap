@@ -17,7 +17,7 @@ yarn add
 yarn dev
 ```
 
-1. Access the server localhost:3000 (<https://localhost:3000>);
+1. Access the server (<https://localhost:3000>);
 2. Fill out submission form;
 2. Send email
 
