@@ -1,9 +1,5 @@
-# Product Name
-> Nodemailer and Mailtrap.io Example.
-
-## Usage example
-
-Using nodemailer library for sending email with safe email mailtrap.io
+# Nodemailer and Mailtrap.io
+> Using nodemailer library for sending email with safe email mailtrap.io
 
 ## Development setup
 
