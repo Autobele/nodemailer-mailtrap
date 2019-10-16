@@ -17,8 +17,8 @@ router.post('/send-email', async (req, res) => {
     `
 
     const info = await transporter.sendMail({
-        from: '"Autobele Silva" <nodemailer@sent.com>', //send address
-        to: 'autobele@msn.com', // list of receviers
+        from: '"Secreatary Mail" <nodemailer@sent.com>', //send address
+        to: 'example@domain.com', // list of receviers
         subject: 'Email from Nodemailer',
         html: contentHtml 
     })
